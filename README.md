@@ -10,4 +10,9 @@ In Nugambakkam railway station at Chennai in India a women was murdered ( ***Swa
   
 ### Technolgy used to achieve this
   
-  
+1. OpenCV is used to capture the image.
+2. CloudSight API which converts the Image to textual reprenstation.
+3. Based on the keyword search for dangerous weapons we notify the station master through twillio sms api.
+4. The location and the weapon used is uploaded to thingspeak database. 
+5. Google map API is used to locate the crime scene. 
+6. The project was built in Python.
