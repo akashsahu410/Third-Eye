@@ -1,4 +1,4 @@
-# Third-Eye
+# Third Eye
 A solution which improves the surveillance of IP-Camera or CCTV camera placed in public domains by increasing its security features.
 
 ## Motivation For the Project
